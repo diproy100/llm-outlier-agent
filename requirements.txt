@@ -1,0 +1,10 @@
+ollama==0.5.3
+langchain==0.3.27
+langchain-community==0.3.27
+pandas
+scikit-learn
+matplotlib
+plotly
+transformers
+jupyter
+streamlit
